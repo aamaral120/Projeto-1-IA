@@ -1,2 +1,2 @@
-# Projeto1-IA-
+# Projeto1
 Primeiro projeto de Inteligência Artificial, Algoritmo A*
