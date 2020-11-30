@@ -1,7 +1,7 @@
-# Agent0_minotauro
+# Agent0
 
 ## Sobre o projeto:
-O projeto Agent0_minotauro permite explorar a interação entre um agente e um ambiente.
+O projeto Agent0 permite explorar a interação entre um agente e um ambiente. Foi utilizado a versão minotauro do Agent0.
 O ambiente consiste num tabuleiro retangular de casas quadradas, que podem conter obstáculos, perigos ou objetivos. Para se movimentar neste ambiente, o agente pode deslocar-se em frente ou mudar de direção. O agente, dependendo da sua capacidade, pode também inspecionar o tabuleiro e as suas casas.
 O agente pode usar diversos algoritmos para chegar ao seu objetivo. Para os visualizar, é possível marcar as casas com várias cores.
 
