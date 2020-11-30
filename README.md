@@ -1,4 +1,4 @@
-# Agent0
+# Agent0 (Algoritmo A*)
 
 ## Sobre o projeto:
 O projeto Agent0 permite explorar a interação entre um agente e um ambiente. Foi utilizado a versão minotauro do Agent0.
